@@ -3,7 +3,7 @@ title: Best JiFeng
 layout: post
 ---
 
-![team_logo200.png](http://upload-images.jianshu.io/upload_images/2385602-e6995fd0ae7e9dca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](http://upload-images.jianshu.io/upload_images/2385602-9a47fdba8d97c940.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
 
 ## 对博客的理解
 

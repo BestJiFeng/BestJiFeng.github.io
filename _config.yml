@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: /
-weibo: /
+# twitter: /
+# weibo: /
 github: BestJiFeng
-instagram: /
-linkedin: /
+# instagram: /
+# linkedin: /
 
 # avatar and Favicon
 avatar: assets/img/team_logo.png # http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png

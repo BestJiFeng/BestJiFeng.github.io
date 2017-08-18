@@ -21,8 +21,8 @@ instagram: suyan0830
 linkedin: suyan0830
 
 # avatar and Favicon
-avatar: image/avatar.jpg # http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: image/avatar.jpg # http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: team_logo.png # http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: team_logo.png # http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:

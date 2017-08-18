@@ -1,10 +1,9 @@
 ---
-title: 
+title: Best JiFeng
 layout: post
 ---
 
-![image.png](http://upload-images.jianshu.io/upload_images/2385602-9a47fdba8d97c940.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![team_logo500.png](http://upload-images.jianshu.io/upload_images/2385602-bffdfcc6e13de03b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 对博客的理解
 

@@ -2,19 +2,5 @@
 title: Best JiFeng
 layout: post
 ---
-
-![image.png](http://upload-images.jianshu.io/upload_images/2385602-9a47fdba8d97c940.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)                      
-
-## 对博客的理解
-
-我们每个人的在网络上产生的数据越来越多，这些信息是我们在互联网上存在过的痕迹，值得我们认真对待。但是它们被分散分布在各个网站上。很多时候我们很难将它们聚合在一起，而且各个网站的信息排布方式也没有办法自由控制，所以我们需要一个可以由自己主宰的空间——博客。
-
-通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间。
-
-分类有助于我们对信息的隔离，例如我把自己的记录分成这几类：技术、工具、资源、生活、读书和旅游。这是我生活重中最重要的几个类别，我希望把自己的一些心得和尝试写在相应分类中。
-
-## 博客平台
-
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
-
-我博客的源码托管在[Github](https://github.com/suyan/suyan.github.io)上，如果有任何改进意见，欢迎讨论。
+#<center>团队介绍</center>######&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[疾风团队](https://bestjifeng.github.io)是一群有远大梦想，致力于为用户提供优质服务，且拥有丰富的移动互联网行业经验和高效执行力的团队。######&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＊团队目标：为人类创造具有使用价值的app######&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＊团队优势：高素质、高水平、高效率######&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＊团队精神：团队精神：其疾如风，其徐如林，侵略如火，不动如山。拥抱变化，沉着应对。######&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;＊团队擅长：移动互联网应用解决方案，Andriod和IOS程序开发######&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;我们拥有完善、成熟的管理和开发流程，以确保为客户提供高质量的服务和产品，为用户打造最完美的使用体验。#<center>联系方式</center>######<center>手机：＋86 18827346558</center>######<center>邮箱：<jifengbestapp@gmail.com></center>
+######<center>公司地址：湖北省武汉市东湖开发区光谷SBI创业街3栋7层</center>

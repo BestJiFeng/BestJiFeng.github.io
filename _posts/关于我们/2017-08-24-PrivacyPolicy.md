@@ -31,7 +31,7 @@ If JiFeng Team becomes involved in a merger, acquisition, or any form of sale of
 
 &emsp;&emsp;If you have any questions about this privacy policy or if you have to change personal information, please feel free to contact us through this site or at the following address:<br>
 
-Privacy Policy,JiFeng Team<br>
+Privacy Policy JiFeng Team<br>
 email:jifengbestapp@gmail.com<br>
- Wuhan Hubei<br>
+Wuhan Hubei<br>
 China<br>

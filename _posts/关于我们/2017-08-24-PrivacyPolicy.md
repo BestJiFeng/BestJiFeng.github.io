@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 隐私政策
+title: Privacy Policy
 category: 关于我们
 ---
 

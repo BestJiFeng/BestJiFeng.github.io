@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy Policy
-category: 关于我们
+category: 关于我们 的副本
 ---
 
 

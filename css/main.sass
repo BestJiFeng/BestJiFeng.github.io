@@ -78,7 +78,7 @@ $post-meta-color:  #BCC1C4
 
 $post-title-color: #283444
 $post-text-color: #283444
-$post-link-color: red
+$post-link-color: lighten($post-text-color, 20%)
 $post-link-hover-color: $gradient-end
 
 $post-bg: #FFFFFF
@@ -105,7 +105,7 @@ $post-share-hover-color: $gradient-end
 
 // # Footer (copyright)
 
-$footer-color: red
+$footer-color: $post-meta-color
 $footer-link-hover-color: $gradient-end
 
 $footer-font-size: 14px
@@ -115,13 +115,13 @@ $footer-line-height: 20px
 
 // # Menu button position
 
-$menu-top:60px
-$menu-right: 80px
-$menu-size: 100px
+$menu-top: 20px
+$menu-right: 30px
+$menu-size: 42px
 
 // # post toc
 $post-toc-width: 500px
-$post-toc-bg: #fafafa
+$post-toc-bg: blue
 $post-toc-border-color: #e5e8ec
 $post-toc-title-color: #2C353D
 $post-toc-li-color: #7D8B99

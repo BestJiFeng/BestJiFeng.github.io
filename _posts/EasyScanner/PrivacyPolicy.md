@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Privacy Policy
+date: 2017-08-24
 category: EasyScanner
 ---
 

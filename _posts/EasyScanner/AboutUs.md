@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Us
+date: 2017-08-18
 category: EasyScanner
 tags: 活力四射, 精益求精,
 keywords: 团队,App,朝气,精益求精,用户,产品

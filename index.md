@@ -13,15 +13,19 @@
 ### 1.由于我们的app没有App Store iTunes退款权限，您若需要退款，可向苹果进行申请，具体请参考以下步骤：
 
 
-* 在浏览器中打开[https://reportaproblem.apple.com](https://reportaproblem.apple.com)使用Apple ID 登录
-* 找到想要退款的app，点击右侧的报告问题（Report a problem）
-* 描述退款原因，点击“提交（Submit）”，等待苹果客服的回复
+#### * 在浏览器中打开[https://reportaproblem.apple.com](https://reportaproblem.apple.com)使用Apple ID 登录
+
+#### * 找到想要退款的app，点击右侧的报告问题（Report a problem）
+
+#### * 描述退款原因，点击“提交（Submit）”，等待苹果客服的回复
 
 ### 2.关于退款遇到的问题，您也可以参考以下链接：
 
-* [http://jingyan.baidu.com/article/6b97984db75f911ca2b0bf8e.html](http://jingyan.baidu.com/article/6b97984db75f911ca2b0bf8e.html)
-* [https://support.apple.com/zh-cn/ht204084](https://support.apple.com/zh-cn/ht204084)
-* [https://support.apple.com/zh-cn/HT202039](https://support.apple.com/zh-cn/HT202039)
+#### * [http://jingyan.baidu.com/article/6b97984db75f911ca2b0bf8e.html](http://jingyan.baidu.com/article/6b97984db75f911ca2b0bf8e.html)
+
+#### * [https://support.apple.com/zh-cn/ht204084](https://support.apple.com/zh-cn/ht204084)
+
+#### * [https://support.apple.com/zh-cn/HT202039](https://support.apple.com/zh-cn/HT202039)
 
 
 ## <center>希望我们提供的消息对您有所帮助，任何问题，请随时与我们联系</center>

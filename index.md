@@ -7,29 +7,6 @@
 &emsp;&emsp;&emsp;&emsp;＊团队擅长：移动互联网应用解决方案，Andriod和IOS程序开发<br><br>
 &emsp;&emsp;我们拥有完善、成熟的管理和开发流程，以确保为客户提供高质量的服务和产品，为用户打造最完美的使用体验。<br><br><br><br><br>
 
-
-## 订阅需知
-
-### 1.由于我们的app没有App Store iTunes退款权限，您若需要退款，可向苹果进行申请，具体请参考以下步骤：
-
-
-#### * 在浏览器中打开[https://reportaproblem.apple.com](https://reportaproblem.apple.com)使用Apple ID 登录
-
-#### * 找到想要退款的app，点击右侧的报告问题（Report a problem）
-
-#### * 描述退款原因，点击“提交（Submit）”，等待苹果客服的回复
-
-### 2.关于退款遇到的问题，您也可以参考以下链接：
-
-#### * [http://jingyan.baidu.com/article/6b97984db75f911ca2b0bf8e.html](http://jingyan.baidu.com/article/6b97984db75f911ca2b0bf8e.html)
-
-#### * [https://support.apple.com/zh-cn/ht204084](https://support.apple.com/zh-cn/ht204084)
-
-#### * [https://support.apple.com/zh-cn/HT202039](https://support.apple.com/zh-cn/HT202039)
-
-
-## 希望我们提供的消息对您有所帮助，任何问题，请随时与我们联系
-
-#### 联系方式
-#### 手机: ＋86 18827346558
-#### 邮箱: [jifengbestapp@gmail.com](jifengbestapp@gmail.com)
+ 联系方式 :
+ 手机: ＋86 18827346558
+ 邮箱: [jifengbestapp@gmail.com](jifengbestapp@gmail.com)

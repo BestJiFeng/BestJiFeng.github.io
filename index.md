@@ -1,5 +1,4 @@
 
-<center> ![jifengLogo](https://pbs.twimg.com/profile_images/913234541401145345/7Q4gFwne_400x400.jpg)</center>
 ##团队介绍<br>
 &emsp;&emsp;[疾风团队](https://bestjifeng.github.io)是一群有远大梦想，致力于为用户提供优质服务，且拥有丰富的移动互联网行业经验和高效执行力的团队。<br><br>
 &emsp;&emsp;&emsp;&emsp;＊团队目标：为人类创造具有使用价值的app<br><br>

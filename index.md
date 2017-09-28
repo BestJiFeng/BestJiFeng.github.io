@@ -14,4 +14,4 @@ title: 疾风团队
 &emsp;&emsp;我们拥有完善、成熟的管理和开发流程，以确保为客户提供高质量的服务和产品，为用户打造最完美的使用体验。<br><br><br><br><br>
 <center>联系方式</center>
 <center>手机：＋86 18827346558</center>
-<center>邮箱： jifengbestapp@gmail.com </center>
+<center>邮箱： <jifengbestapp@gmail.com ></center>

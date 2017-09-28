@@ -28,8 +28,8 @@
 #### * [https://support.apple.com/zh-cn/HT202039](https://support.apple.com/zh-cn/HT202039)
 
 
-## <center>希望我们提供的消息对您有所帮助，任何问题，请随时与我们联系</center>
+## 希望我们提供的消息对您有所帮助，任何问题，请随时与我们联系
 
-<center>联系方式</center>
-<center>手机：＋86 18827346558</center>
-<center>邮箱： <jifengbestapp@gmail.com ></center>
+#### 联系方式</center>
+#### 手机: ＋86 18827346558</center>
+#### 邮箱: [jifengbestapp@gmail.com](jifengbestapp@gmail.com)<center>
